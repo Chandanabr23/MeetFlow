@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # meetflow
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# MeetFlow
+“Connect” + modern tech vibe
+>>>>>>> ebaabdc9b3b84913614069997abdef9aeee7b07c
