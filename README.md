@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # meetflow
 
 A new Flutter project.
